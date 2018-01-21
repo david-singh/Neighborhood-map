@@ -10,7 +10,9 @@ This is project focuses on using APIs to get location information. Some of the A
   * Web browser(Ex- Chrome , Safari , Mozilla Firefox)
   
 ### Launch Project:
-  1. Download or Clone [Neighborhood-map](https://github.com/david-singh/Neighborhood-map-/) repository.
-  2. Find the catalog folder and replace it with the content of this current repository, by either downloading or cloning it from
-  [Here](https://github.com/david-singh/item-catalog).
+  1. Download or Clone [Neighborhood-map](https://github.com/david-singh/Neighborhood-map/) repository.
+  2. Open Folder and find ```index.html``` 
+  3. Open the ```index.html``` file with any browser(Chrome, Firefox, Safari).
+  4. Explore the app by using feature of searching the locations.
+  5. Click on location pins to see the information retrieve for each location.
 
