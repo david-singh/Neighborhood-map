@@ -74,7 +74,10 @@ function initMap() {
 
             markers.push(marker);
             appViewModel.listLocations()[i].marker = marker;
-            marker.addListener('click', );
+            marker.addListener('click', clickMarker);
+    }
+    function clickMarker() {
+        populateInfoWindow(this, infoWindow);
     }
 }
 
