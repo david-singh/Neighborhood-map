@@ -74,10 +74,7 @@ function initMap() {
 
             markers.push(marker);
             appViewModel.listLocations()[i].marker = marker;
-            marker.addListener('click', function() {
-                // call "populateInfoWindow" function
-                populateInfoWindow(this, infoWindow);
-            });
+            marker.addListener('click', );
     }
 }
 
