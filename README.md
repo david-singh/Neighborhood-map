@@ -16,3 +16,10 @@ This is project focuses on using APIs to get location information. Some of the A
   4. Explore the app by using feature of searching the locations.
   5. Click on location pins to see the information retrieve for each location.
 
+#### Acknowledgments
+
+The following 3rd party API's were used.
+* [Google Maps API](https://developers.google.com/maps/)
+* [Knockout JS framework](http://knockoutjs.com/)
+* [Foursquare API](https://developer.foursquare.com/)
+* [jQuery JS framework](https://jquery.com/)
